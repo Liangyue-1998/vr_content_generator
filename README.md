@@ -18,3 +18,15 @@
 
 https://www.youtube.com/watch?v=1Fupk75GhHg
 
+## UI Layout
+![image](https://github.com/user-attachments/assets/4cfbf531-c213-4419-9910-84ced85b124b)
+![image](https://github.com/user-attachments/assets/7107a4e4-e9bc-4962-9970-f782362fcf23)
+![image](https://github.com/user-attachments/assets/91db4356-ebda-4089-b228-55ce66028ef8)
+![image](https://github.com/user-attachments/assets/d0ad20f1-5a48-42f4-a1ea-83bd618274fa)
+![image](https://github.com/user-attachments/assets/ec8e2524-7292-450d-bf8c-d50c36ba053a)
+
+
+## Interaction between VR controller and UI
+https://developer.picoxr.com/zh/document/unity/create-interactive-ui/
+
+

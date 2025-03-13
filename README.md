@@ -29,4 +29,8 @@ https://www.youtube.com/watch?v=1Fupk75GhHg
 ## Interaction between VR controller and UI
 https://developer.picoxr.com/zh/document/unity/create-interactive-ui/
 
+## 当连接local network的时候，需要以下操作：
+![image](https://github.com/user-attachments/assets/84e9d0a1-0156-4d22-89f4-cf4351dd461f)
+manifestPlaceholders = [usesCleartextTraffic:"true"]
+
 
